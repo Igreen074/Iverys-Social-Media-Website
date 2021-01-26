@@ -1,0 +1,38 @@
+body {
+    background-color: #1f1918;
+}
+
+body {
+    color: white;
+}
+
+.meg {
+    border-radius: 50%;
+}
+
+img {
+    border: solid purple 4px;
+}
+
+.trigger {
+    border: Solid white 2px;
+    margin: 2px;
+    padding: 2px;
+    background-color: #00fffb;
+}
+
+.gump {
+    border: solid white 4px;
+}
+
+p {
+    padding: 2px;
+    background-color: cyan;
+    Border: solid white 2px;
+}
+
+.me {
+    display: flex;
+    Justify-content: flex-end;
+    border-radius: 50%;
+}
